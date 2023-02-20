@@ -1,0 +1,23 @@
+{
+  "name": "teams-app-promineo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RXTArtemis/Teams-App-Repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RXTArtemis/Teams-App-Repo/issues"
+  },
+  "homepage": "https://github.com/RXTArtemis/Teams-App-Repo#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.6.3"
+  }
+}
